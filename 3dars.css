@@ -1,0 +1,13 @@
+.contayner {
+    max-width: 1000px;
+    background-color: gold;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.box {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
